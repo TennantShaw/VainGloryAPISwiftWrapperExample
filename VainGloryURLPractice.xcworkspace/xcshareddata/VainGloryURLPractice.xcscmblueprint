@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "2DC312C755679DD17833381756367B81DCDCACDC",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "2DC312C755679DD17833381756367B81DCDCACDC" : 9223372036854775807,
+    "ADB8FD72883E2E9FF4E2919FD662422B7AD67F0C" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "A544F7F9-6F1E-4595-B6BA-2815665B0A26",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "2DC312C755679DD17833381756367B81DCDCACDC" : "2017-03-Sandbox\/",
+    "ADB8FD72883E2E9FF4E2919FD662422B7AD67F0C" : "2017-03-Sandbox\/VainGloryURLPractice\/VainGloryURLPractice\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "VainGloryURLPractice",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "VainGloryURLPractice\/VainGloryURLPractice.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/griotspeak\/2017-03-Sandbox.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2DC312C755679DD17833381756367B81DCDCACDC"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/TennantShaw\/VainGloryStatsAPISample.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "ADB8FD72883E2E9FF4E2919FD662422B7AD67F0C"
+    }
+  ]
+}

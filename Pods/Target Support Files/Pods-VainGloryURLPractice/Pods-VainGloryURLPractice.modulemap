@@ -1,0 +1,6 @@
+framework module Pods_VainGloryURLPractice {
+  umbrella header "Pods-VainGloryURLPractice-umbrella.h"
+
+  export *
+  module * { export * }
+}
